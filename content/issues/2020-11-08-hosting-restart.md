@@ -1,8 +1,8 @@
 ---
 title: Hosting restart
-date: 2020-11-08 10:30:00
+date: 2020-11-08 10:25
 resolved: true
-resolvedWhen: 2020-11-08 10:40:00
+resolvedWhen: 2020-11-08 10:40
 # Possible severity levels: down, disrupted, notice
 severity: disrupted
 affected:
