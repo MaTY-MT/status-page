@@ -154,6 +154,9 @@ params:
     - name: Redirector
       category: Others
       description: r.matydev.tk
+    - name: MaTYStyle
+      category: Others
+      description: style.matydev.tk
 
   # What date format to use?
   #
