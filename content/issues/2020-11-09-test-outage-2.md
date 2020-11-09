@@ -1,7 +1,7 @@
 ---
 title: Testing outage
 date: 2020-11-09 08:19:00
-resolved: false
+resolved: true
 resolvedWhen: 2020-11-09 08:25:00
 # Possible severity levels: down, disrupted, notice
 severity: notice
