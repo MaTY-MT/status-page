@@ -121,6 +121,7 @@ params:
   # For help, see the wiki:
   # https://github.com/cstate/cstate/wiki/Customization
   categories:
+    - name: Websites
     - name: Discord
     - name: node.js
     - name: Others
@@ -131,6 +132,10 @@ params:
   # For help, see the wiki:
   # https://github.com/cstate/cstate/wiki/Customization
   systems:
+    - name: matydev.tk
+      category: Websites
+    - name: mmaty.eu
+      category: Websites
     - name: MaTYBot
       category: Discord
       description: My Discord bot.
@@ -139,10 +144,16 @@ params:
       description: My Discord bot.
     - name: IntelliBrain
       category: node.js
+      description: intellibrain.matydev,tk
     - name: fsds.ga
       category: node.js
+      description: fsds.ga
     - name: Refreshy
       category: Others
+      description: matydev.tk/refreshy
+    - name: Redirector
+      category: Others
+      description: r.matydev.tk
 
   # What date format to use?
   #
