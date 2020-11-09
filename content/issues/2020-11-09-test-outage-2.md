@@ -4,7 +4,7 @@ date: 2020-11-09 08:19:00
 resolved: false
 resolvedWhen: 2020-11-09 08:25:00
 # Possible severity levels: down, disrupted, notice
-severity: disrupted
+severity: notice
 affected:
   - MaTYBot
   - Word Soccer
