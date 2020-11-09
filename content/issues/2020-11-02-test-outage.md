@@ -1,8 +1,8 @@
 ---
 title: Testing outage
-date: 2020-11-08 08:17:00
+date: 2020-11-09 08:17:00
 resolved: true
-resolvedWhen: 2020-11-08 08:18:00
+resolvedWhen: 2020-11-09 08:18:00
 # Possible severity levels: down, disrupted, notice
 severity: down
 affected:
