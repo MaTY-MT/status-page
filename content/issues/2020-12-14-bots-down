@@ -1,6 +1,6 @@
 ---
-title: Discord Bots down
-date: 2020-12-14 14:22:30
+title: Bots down
+date: 2020-12-14 14:47:00
 resolved: false
 # Possible severity levels: down, disrupted, notice
 severity: down
@@ -10,4 +10,4 @@ affected:
 section: issue
 ---
 
-*Just began* - We're currently investigating the problem...
+*Just began* - We're investigating this issue...
