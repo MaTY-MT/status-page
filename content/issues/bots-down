@@ -1,0 +1,13 @@
+---
+title: Discord Bots down
+date: 2020-11-08 10:25:00
+resolved: false
+# Possible severity levels: down, disrupted, notice
+severity: down
+affected:
+  - MaTYBot
+  - Word Soccer
+section: issue
+---
+
+*Just began* - We're currently investigating the problem...
