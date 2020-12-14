@@ -1,7 +1,8 @@
 ---
-title: Bots down
-date: 2020-12-14 14:47:00
+title: Testing outage
+date: 2020-12-14 14:49:00
 resolved: false
+resolvedWhen: 2020-11-09 08:25:00
 # Possible severity levels: down, disrupted, notice
 severity: down
 affected:
@@ -10,4 +11,4 @@ affected:
 section: issue
 ---
 
-*Just began* - We're investigating this issue...
+*Just began* - Investigating...
