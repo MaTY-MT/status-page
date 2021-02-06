@@ -139,9 +139,6 @@ params:
     - name: MaTYBot
       category: Discord
       description: My Discord bot.
-    - name: Word Soccer
-      category: Discord
-      description: My Discord bot.
     - name: IntelliBrain
       category: node.js
       description: intellibrain.matydev,tk
@@ -157,6 +154,8 @@ params:
     - name: MaTYStyle
       category: Others
       description: style.matydev.tk
+    - name: Other bots hosting
+      category: Others
 
   # What date format to use?
   #
