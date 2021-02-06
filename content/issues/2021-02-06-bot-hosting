@@ -1,0 +1,13 @@
+---
+title: Discord Bots' responses delayed
+date: 2021-02-06 15:30
+resolved: false
+# Possible severity levels: down, disrupted, notice
+severity: degraded
+affected:
+  - MaTYBot
+  - Other bots hosting
+section: issue
+---
+
+*Notice* - Internet issues
